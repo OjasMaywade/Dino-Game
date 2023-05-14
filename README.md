@@ -1,0 +1,1 @@
+Dino Game made using HTML, CSS and Vanilla JavaScript.
